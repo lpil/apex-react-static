@@ -1,0 +1,2 @@
+  [+] creating IAM apex-static_lambda_function role
+  [+] creating IAM apex-static_lambda_logs policy

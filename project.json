@@ -1,0 +1,10 @@
+
+{
+  "name": "apex-static",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::578418881509:role/apex-static_lambda_function",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
